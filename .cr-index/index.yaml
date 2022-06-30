@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  CBTNuggets-Test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-30T17:30:35.436668-06:00"
+    description: A Helm chart for Kubernetes
+    digest: fdd5f13b6ddaa158712e1d3c8724cdfc71f7a59975ea303e2d46c86fa6e54af2
+    name: CBTNuggets-Test
+    type: application
+    urls:
+    - https://github.com/cbttrevor/helm-repo/releases/download/CBTNuggets-Test-0.8.1/CBTNuggets-Test-0.8.1.tgz
+    version: 0.8.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-30T17:30:35.2724768-06:00"
+    description: A Helm chart for Kubernetes
+    digest: ca98ff4b75114934d010f5dfa4f58121f653b2299d516fb21362a00e909e22bb
+    name: CBTNuggets-Test
+    type: application
+    urls:
+    - https://github.com/cbttrevor/helm-repo/releases/download/CBTNuggets-Test-0.7.3/CBTNuggets-Test-0.7.3.tgz
+    version: 0.7.3
+generated: "2022-06-30T17:30:35.436668-06:00"
